@@ -21,7 +21,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/blob/main/Task-2_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML
 _Please click on the images on right side to view my solution._
@@ -30,7 +30,7 @@ _Please click on the images on right side to view my solution._
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/blob/master/Task-3_Decision_Tree.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/blob/master/Task-3_Decision_Tree.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm
 _Please click on the images on right side to view my solution._
@@ -39,12 +39,12 @@ _Please click on the images on right side to view my solution._
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/blob/master/Task-4_Stock_Price.ipynb)
 
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis 
 _Please click on the images on right side to view my solution._
 
-**NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/issues/2).**
+**NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/issues/2).**
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
@@ -52,7 +52,7 @@ _Please click on the images on right side to view my solution._
 1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/blob/master/Task-5_Superstore.xlsx)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/blob/master/Task-5_Superstore.xlsx)
 
 ### # Task-5 : To Explore Business Analytics
 _Please click on the images on right side to view my solution._
@@ -64,7 +64,7 @@ _Please click on the images on right side to view my solution._
 1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Tasks/blob/master/Task-6_Covid19.twb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/SaiChaitanya-007/The-Sparks-Foundation-Internship/blob/master/Task-6_Covid19.twb)
 
 ### # Task-6 : Timeline Analysis : Covid-19
 _Please click on the images on right side to view my solution._
